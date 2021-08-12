@@ -1,0 +1,163 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-03-17T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 7,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+
+    },
+    {
+      "name": "Dai Token",
+      "symbol": "DAI",
+      "address": "0x8a9424745056Eb399FD19a0EC26A14316684e274",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x9Ac64Cc6e4415144C455BD8E4837Fea55603e5c3",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png"
+    },
+	
+	  {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x7ef95a0fee0dd31b22626fa2e10ee6a223f8a684",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x55d398326f99059ff775485246999027b3197955.png"
+    },
+	  {
+      "name": "First Responder Token",
+      "symbol": "FRT",
+      "address": "0xa7b1130e3f5663e584b6424dc1974a74cb6e2dea",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/QkqaGHA.png"
+    },
+	
+	
+	  {
+      "name": "Martian",
+      "symbol": "MARS",
+      "address": "0x0baef25fc6fe203e7af1c6eceb95f9be5d89bed8",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/xzCWX7l.png"
+    },
+	
+	
+	  {
+      "name": "Wrapped X6coin",
+      "symbol": "WX6",
+      "address": "0xd4b04646d9dbc7a1f0e4473ebbefa2de6ed9d6ae",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/fsJzFNm.png"
+    },
+	
+	
+	
+		  {
+      "name": "Allsafe",
+      "symbol": "WSAFE",
+      "address": "0x3564e387f71180ae528f24c9e8d95ab98e1be67b",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/Cb2VxMN.png"
+    },
+	
+	 {
+      "name": "Ancillary Zer-dex",
+      "symbol": "AZDX",
+      "address": "0x4e8441035ebb439f3f78326745392fd30039564c",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/FZEpcYU.png"
+    },
+	
+	 {
+      "name": "ZerDeX-Men",
+      "symbol": "ZDX-MEN",
+      "address": "0x6767deba62b5137cea86c6942e34847be6ea508f",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/Bb1hzTp.jpg"
+    },
+	
+	 {
+      "name": "Play Money",
+      "symbol": "Play",
+      "address": "0x6d4dba87d10a40a1888c835249d7c033336de37a",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/7FyjYWq.png"
+    },
+	
+	 {
+      "name": "Harcomia",
+      "symbol": "HCA",
+      "address": "0xc8d49275a17f2f774c5d94de06de9722337351a9",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNi4jbwp_Yy6F3YrNQr1ZEgv7o9rPSboY4LLNz5rDI0kBhcNDeNxx1cYtv6FD1WNmHSnQ&usqp=CAU"
+    },
+	
+	
+	
+	
+	
+		 {
+      "name": "Bakery Token",
+      "symbol": "BAKE",
+      "address": "0xCDe540d7eAFE93aC5fE6233Bee57E1270D3E330F",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
+    },
+	
+	    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0x78867BbEeF44f2326bF8DDd1941a4439382EF2A7",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+	{
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x8babbb98678facc7342735486c851abd7a0d17ca",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "Supreme",
+      "symbol": "SUPREME",
+      "address": "0x72fecd8fcdcea947a096d86b31cbd0ba16a7485f",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/5yLwzjw.png"
+    }
+  ]
+}
+
+
